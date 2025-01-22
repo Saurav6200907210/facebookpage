@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #130f40;
+    font-family: arial;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 200px;
+    width: 260px;
+    background;#ecf0f1
+    border-radius: 20px;
+}
